@@ -11,3 +11,7 @@ Donde la ganancia será:
 * el 15% si el costo es inferior a $3000
 * $500 si el costo está entre $3000 y $6000
 * el 25% si el costo supera los $6000 
+
+## Diagrama de flujo
+
+![Diagrama de flujo](diagrama.png "DIagrama de flujo")
